@@ -1,0 +1,1 @@
+# cortar-imagem-js-puro
